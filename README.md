@@ -45,3 +45,5 @@ Veliki hrvatski vodič kroz otvorene projekte za AI asistente, upravljanje raču
 4. [OpenAI CUA Sample App](https://github.com/openai/openai-cua-sample-app) — referentni primjer aplikacije za računalnu upotrebu
 
 > **Napomena:** Ovo je urednički izbor, a ne službena preporuka. Prije instalacije provjeri aktivnost projekta, sigurnost, licencu, ovisnosti i moguće troškove modela ili hostinga. Popis je sadržajno nadahnut javnim popisom [Open Source Alternatives to Manus AI](https://github.com/rodrigoandrigo/open-source-alternatives-to-manus-ai), ali su hrvatski tekst, opisi i organizacija originalno uređeni za Hrvatski Kanal.
+
+> **Napomena o vlasništvu:** Ovo je samo urednički popis i vodič. Povezani projekti pripadaju svojim autorima; svaki repozitorij ima vlastite uvjete korištenja i licencu. Ovaj popis ne licencira, ne prodaje i ne predstavlja navedene projekte kao proizvode Hrvatskog Kanala.
